@@ -1,0 +1,18 @@
+{
+  "name": "fsfirst",
+  "version": "1.0.0",
+  "description": "my first trying to make fullstack rest api app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "aleksan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
